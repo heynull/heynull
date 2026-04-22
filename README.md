@@ -1,5 +1,5 @@
-ml, infra & product.
+frontend (web & mobile) & product.
 
-ping pong also :)
+for the love of building software tool. 
 
-doing it for the love of the game
+ping pong :)
